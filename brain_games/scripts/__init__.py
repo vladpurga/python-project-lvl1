@@ -1,3 +1,3 @@
 # -*- coding:utf-8 -*-
 
-"""brain-games scripts"""
+"""brain-games scripts."""
